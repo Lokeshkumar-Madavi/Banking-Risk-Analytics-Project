@@ -5,6 +5,11 @@ To develop a foundational understanding of **risk analytics** in the banking and
 
 ---
 
+## 🔗 Live Dashboard  
+Explore the interactive Power BI Dashboard here: [View Banking Risk Analytics Project Dashboard]("https://app.powerbi.com/view?r=eyJrIjoiNzYyYmQxYTYtOWMwYi00MmI2LTgzZjMtNzEwODZjZTE2ZmI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9")
+
+---
+
 ## Data Structure  
 The project uses a **star schema** consisting of the following tables:
 
