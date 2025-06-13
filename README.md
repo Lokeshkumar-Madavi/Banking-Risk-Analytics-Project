@@ -62,3 +62,5 @@ The interactive Power BI dashboard summarizes key trends across:
 - Deposit vs Loan comparisons  
 - Time trends in customer onboarding  
 - Relationship types and income distribution
+
+file:///C:/Users/Lokesh/Downloads/Banking_dash_lok%20(1).pdf
