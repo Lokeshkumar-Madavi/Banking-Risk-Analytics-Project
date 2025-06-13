@@ -63,6 +63,8 @@ The interactive Power BI dashboard summarizes key trends across:
 - Time trends in customer onboarding  
 - Relationship types and income distribution
 
+---
+
 ![Banking_dash_lok_page-0001](https://github.com/user-attachments/assets/1d15a185-41cd-4059-9d5b-2d963f4e0501)
 ![Banking_dash_lok_page-0002](https://github.com/user-attachments/assets/e1a8d4e2-731b-442b-866d-25667e6b38ed)
 ![Banking_dash_lok_page-0003](https://github.com/user-attachments/assets/411fa4fe-d02a-4f01-a5a9-a48c911f1143)
